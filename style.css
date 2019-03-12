@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Teko|Permanent+Marker');
+
+html {
+  font-family: "Arial Black";
+  text-decoration: none;
+}
+
+body {
+  background: #0C0C0C;
+  background-image: url('./background.jpg');
+  background-repeat: no-repeat, no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  vertical-align: top;
+}
+
+li {
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: auto;
+}
+
+.site-content {
+  max-width: 975px;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  width: 100%;
+  height: auto;
+  background: #0C0C0C;
+}
+
+.site-header {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.banner-image {
+  width: 100%;
+  height: auto;
+}
+
+.nav-bar {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 28px;
+  text-decoration: none;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  padding: 0 25px;
+  color: #0E7CBC;
+  letter-spacing: 2px;
+}
+
+.site-body {
+  text-align: center;
+}
+
+.music-player {
+  width: 100%;
+}
+
+.show-list {
+  width: 100%;
+  height: 575px;
+  overflow-y: auto;
+}
+
+.homepage_video {
+  width: 100%;
+  height: 450px;
+}
+
+.press-bio {
+  text-align: justify;
+  margin-top: -45px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.press-bio-image {
+    width: auto;
+    height: 315px;
+    float: left;
+    margin-top: 45px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+}
+
+hr {
+  border-width: 2px;
+  border-style: solid;
+}
+
+.press-spacer {
+  display: block;
+  line-height: 150%;
+}
+
+.press-bio-tagline {
+  color: #EEEEEE;
+  text-align: center;
+  letter-spacing: 12px;
+  font-size: 26px;
+  line-height: 2em;
+  font-family: 'Teko', sans-serif;
+  font-weight: bold;
+}
+
+.press-bio-tagline hr {
+  max-width: 75%;
+  width: auto;
+}
+
+.press-bio-text {
+  text-align: justify;
+  color: #EEEEEE;
+  font-size: 1.5em;
+  line-height: 115%;
+  float: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  margin-top: 50px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.press-link {
+  color: #0E7CBC;
+  text-decoration: none;
+}
+
+.bit-event-buttons {
+  display: flex !important;
+  flex-direction: row !important;
+  margin: 0 auto !important;
+  width: auto;
+  position: relative;
+}
+
+.bit-rsvp-container {
+  float: left !important;
+  margin: 0 !important;
+  padding-right: 5px;
+  margin: auto !important;
+}
+
+.bit-offers-container {
+  float: right !important;
+  margin: 0 !important;
+  padding-left: 5px;
+  margin: auto !important;
+}
