@@ -111,7 +111,10 @@ img {
   width: auto;
   border-width: 2px;
   border-style: solid;
-  margin: 0px;
+}
+
+.press-hr-top {
+  margin-top: -22px;
 }
 
 .press-bio-text {
