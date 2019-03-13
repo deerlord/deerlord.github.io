@@ -106,6 +106,10 @@ hr {
   border-style: solid;
 }
 
+.press-top-line {
+  margin-top: 23px;
+}
+
 .press-bio-tagline {
   color: #EEEEEE;
   text-align: center;
