@@ -52,8 +52,6 @@ img {
 }
 
 .nav-bar {
-  padding-top: 5px;
-  padding-bottom: 5px;
   font-family: 'Permanent Marker', cursive;
   font-size: 28px;
   text-decoration: none;
@@ -87,7 +85,6 @@ img {
 
 .press-bio {
   text-align: justify;
-  margin-top: -45px;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -96,18 +93,8 @@ img {
     width: auto;
     height: 315px;
     float: left;
-    margin-top: 45px;
     padding-right: 10px;
     padding-bottom: 0px;
-}
-
-hr {
-  border-width: 2px;
-  border-style: solid;
-}
-
-.press-top-line {
-  margin-top: 23px;
 }
 
 .press-bio-tagline {
@@ -123,6 +110,14 @@ hr {
 .press-bio-tagline hr {
   max-width: 75%;
   width: auto;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
 }
 
 .press-bio-text {
@@ -134,7 +129,6 @@ hr {
   margin: 0;
   padding: 0;
   border: 0;
-  margin-top: 50px;
   font-family: 'Permanent Marker', cursive;
 }
 
