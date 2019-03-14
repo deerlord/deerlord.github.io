@@ -61,9 +61,10 @@ img {
 
 .nav-bar a {
   text-decoration: none;
-  padding: 0 25px;
   color: #0E7CBC;
   letter-spacing: 2px;
+  width: 20%;
+  padding: 0 25px;
 }
 
 .site-body {
