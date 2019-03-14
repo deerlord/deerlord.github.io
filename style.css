@@ -119,6 +119,11 @@ img {
   margin-top: -22px;
 }
 
+.press-spacer {
+  display: block;
+  line-height: 60px;
+}
+
 .press-bio-text {
   text-align: justify;
   color: #EEEEEE;
