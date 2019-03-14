@@ -78,7 +78,7 @@ img {
 
 .show-list {
   width: 100%;
-  height: 575px;
+  height: auto;
   overflow-y: auto;
 }
 
