@@ -68,6 +68,8 @@ img {
 
 .site-body {
   text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .music-player {
@@ -87,8 +89,6 @@ img {
 
 .press-bio {
   text-align: justify;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 .press-bio-image {
