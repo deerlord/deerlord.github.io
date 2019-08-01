@@ -143,10 +143,10 @@ img {
 }
 
 .contact {
- text-align: justify;
+ text-align: center;
   color: #EEEEEE;
   font-size: 1em;
-  font-family: 'Permantent Marker', cursive;
+  font-family: arial;
 }
 
 .bit-event-buttons {
