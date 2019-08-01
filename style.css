@@ -142,6 +142,13 @@ img {
   text-decoration: none;
 }
 
+.contact {
+ text-align: justify;
+  color: #EEEEEE;
+  font-size: 1em;
+  font-family: 'Permantent Marker', cursive;
+}
+
 .bit-event-buttons {
   display: flex !important;
   flex-direction: row !important;
