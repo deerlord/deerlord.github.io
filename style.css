@@ -143,10 +143,12 @@ img {
 }
 
 .contact {
- text-align: center;
+  text-align: center;
   color: #EEEEEE;
   font-size: 1em;
   font-family: arial;
+  width: 100%;
+  display: inline-block;
 }
 
 .bit-event-buttons {
