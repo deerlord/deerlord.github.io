@@ -94,7 +94,7 @@ img {
 
 .press-bio-image {
     width: auto;
-    height: 315px;
+    height: 185px;
     float: left;
     padding-right: 10px;
     padding-bottom: 0px;
@@ -103,7 +103,7 @@ img {
 .press-bio-tagline {
   color: #EEEEEE;
   text-align: center;
-  letter-spacing: 6px;
+  letter-spacing: 20px;
   font-size: 26px;
   line-height: 2em;
   font-family: 'Teko', sans-serif;
