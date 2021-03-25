@@ -61,7 +61,7 @@ img {
 
 .nav-bar a {
   text-decoration: none;
-  color: #E65DC6;
+  color: #C82302;
   letter-spacing: 2px;
   width: 20%;
   padding: 0 20px;
@@ -101,7 +101,7 @@ img {
 }
 
 .press-bio-tagline {
-  color: #EEEEEE;
+  color: #FBFEFB;
   text-align: center;
   letter-spacing: 20px;
   font-size: 26px;
@@ -127,7 +127,7 @@ img {
 
 .press-bio-text {
   text-align: justify;
-  color: #EEEEEE;
+  color: #FBFEFB;
   font-size: 1.5em;
   line-height: 115%;
   float: none;
@@ -138,14 +138,14 @@ img {
 }
 
 .press-link {
-  color: #2EFA8F;
+  color: #F3D8C7;
   text-decoration: none;
   margin-right: -10px;
 }
 
 .contact {
   text-align: center;
-  color: #EEEEEE;
+  color: #F3D8C7;
   font-size: 1em;
   font-family: arial;
   width: 100%;
